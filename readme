@@ -1,4 +1,4 @@
-CUE2CHD is a program im developing to convert .cue files to .cdhd on the fly.
+taik0chd is a program im developing to convert .cue files to .cdhd on the fly.
 
 this is being programmed in autoit3 at the moment, though that might change
 
