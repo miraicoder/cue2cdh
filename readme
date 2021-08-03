@@ -1,1 +1,5 @@
-CUE2CDH is a program im developing to convert .cue files to .cdh on the fly. this page is work in progress for now.
+CUE2CDH is a program im developing to convert .cue files to .cdh on the fly.
+
+this is being programmed in autoit3 at the moment, though that might change
+
+im new to programming so this might take awhile though i am very very interested in getting this to work so please be patient with me ^^
